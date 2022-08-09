@@ -12,7 +12,7 @@ import Button from '@mui/material/Button';
 import Image from 'next/image';
 import Logo from '../../images/full.png';
 import { styled, alpha } from '@mui/material/styles';
-import SearchIcon from '@mui/icons-material/Search';
+//import SearchIcon from '@mui/icons-material/Search';
 import InputBase from '@mui/material/InputBase';
 import Rainbow from '../Rainbow/Rainbow';
 import Link from 'next/link'
